@@ -1,0 +1,60 @@
+{
+  "pages": [
+    "pages/main/main",
+    "pages/login/login",
+    "pages/reg/reg",
+    "pages/pwd/modify",
+    "pages/user/user",
+    "pages/chat/chat",
+    "pages/user/info",
+    "pages/user/audit",
+    "pages/user/detail",
+    "pages/cargo/cargo/cargo",
+    "pages/order/order",
+    "pages/myPackage/myPackage"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#0faeff",
+    "backgroundColor": "#fbf9fe"
+  },
+  "tabBar": {
+    "color": "#7a7e83",
+    "selectedColor": "#0faeff",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/main/main",
+        "text": "首页",
+        "iconPath": "static/img/home.png",
+        "selectedIconPath": "static/img/homeHL.png"
+      },
+      {
+        "pagePath": "pages/chat/chat",
+        "text": "信息",
+        "iconPath": "static/img/message.png",
+        "selectedIconPath": "static/img/messageHL.png"
+      },
+      {
+        "pagePath": "pages/myPackage/myPackage",
+        "text": "我的包裹",
+        "iconPath": "static/img/myPackage.png",
+        "selectedIconPath": "static/img/myPackageHL.png"
+      },
+      {
+        "pagePath": "pages/order/order",
+        "text": "我的接单",
+        "iconPath": "static/img/order.png",
+        "selectedIconPath": "static/img/orderHL.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "我的",
+        "iconPath": "static/img/user.png",
+        "selectedIconPath": "static/img/userHL.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

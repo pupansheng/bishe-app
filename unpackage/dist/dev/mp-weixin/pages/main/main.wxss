@@ -1,0 +1,175 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.segmented-control {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  width: 75%;
+  font-size: 28rpx;
+  box-sizing: border-box;
+  margin: 0 auto;
+  overflow: hidden;
+  border: 1px solid;
+  border-radius: 10rpx;
+}
+.segmented-control.text {
+    border: 0;
+    border-radius: 0;
+}
+.segmented-control-item {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  text-align: center;
+  line-height: 60rpx;
+  box-sizing: border-box;
+  border-left: 1px solid;
+}
+.segmented-control-item.active {
+    color: #fff;
+}
+.segmented-control-item.text {
+    border-left: 0;
+    color: #000;
+}
+.segmented-control-item.text.active {
+      border-bottom-style: solid;
+}
+.segmented-control-item:first-child {
+    border-left-width: 0;
+}
+
+
+.hello.data-v-54c5f3ce {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+}
+.title.data-v-54c5f3ce {
+	color: #8f8f94;
+	margin-top: 50rpx;
+}
+.ul.data-v-54c5f3ce {
+	font-size: 30rpx;
+	color: #8f8f94;
+	margin-top: 50rpx;
+}
+.ul > view.data-v-54c5f3ce {
+	line-height: 50rpx;
+}
+.QS-tabs-box.data-v-54c5f3ce {
+	width: 100%;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	z-index: 10;
+	background-color: white;
+}
+.swiper-item.data-v-54c5f3ce {
+	background-color: #fff;
+}
+.scroll-items.data-v-54c5f3ce {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	width: 100%;
+	padding: 40rpx;
+}
+.scroll-item.data-v-54c5f3ce {
+	margin-top: 15rpx;
+	padding: 25rpx;
+	background-color: white;
+	border-radius: 8rpx;
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	border: 1px solid #f8f8f8;
+}
+.scroll-item-image-box.data-v-54c5f3ce {
+	-webkit-box-flex: 0;
+	-webkit-flex-grow: 0;
+	        flex-grow: 0;
+}
+.scroll-item-text-box.data-v-54c5f3ce {
+	-webkit-box-flex: 1;
+	-webkit-flex-grow: 1;
+	        flex-grow: 1;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	font-size: 28rpx;
+	font-weight: bold;
+	margin-left: 15rpx;
+}
+.scroll-item-image.data-v-54c5f3ce {
+	border-radius: 4rpx;
+	width: 180rpx;
+	height: 150rpx;
+}
+.view2.data-v-54c5f3ce {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 100%;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+}
+.btn.data-v-54c5f3ce {
+}
+

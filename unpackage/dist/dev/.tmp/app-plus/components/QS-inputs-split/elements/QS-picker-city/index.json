@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "q-stemplate": "/components/QS-inputs-split/template/template",
+    "picker-city": "/components/QS-inputs-split/template/QS-picker/elements/QS-picker-city",
+    "uni-icon": "/components/QS-inputs-split/uniIcons/uni-icons"
+  }
+}

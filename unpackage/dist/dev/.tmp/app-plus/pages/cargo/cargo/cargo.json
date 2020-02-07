@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "物品详情",
+  "usingComponents": {
+    "uni-card": "/node-modules/@dcloudio/uni-ui/lib/uni-card/uni-card",
+    "uni-swiper-dot": "/node-modules/@dcloudio/uni-ui/lib/uni-swiper-dot/uni-swiper-dot",
+    "uni-icons": "/node-modules/@dcloudio/uni-ui/lib/uni-icons/uni-icons",
+    "uni-drawer": "/node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer",
+    "cmd-cel-item": "/components/cmd-cell-item/cmd-cell-item",
+    "cmd-avatar": "/components/cmd-avatar/cmd-avatar"
+  }
+}

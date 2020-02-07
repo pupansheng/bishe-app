@@ -1,0 +1,1 @@
+<view class="content data-v-75e60632"><view class="message-list data-v-75e60632"><wkiwi-swipe-action vue-id="1" options="{{options}}" messagesList="{{linkList}}" class="data-v-75e60632" bind:__l="__l"></wkiwi-swipe-action></view></view>

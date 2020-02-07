@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "个人资料",
+  "usingComponents": {
+    "q-s-input": "/components/QS-inputs-split/elements/QS-input/index",
+    "q-s-radio": "/components/QS-inputs-split/elements/QS-radio/index",
+    "q-s-checkbox": "/components/QS-inputs-split/elements/QS-checkbox/index",
+    "q-s-picker-city": "/components/QS-inputs-split/elements/QS-picker-city/index",
+    "q-s-picker-date": "/components/QS-inputs-split/elements/QS-picker-date/index",
+    "q-s-picker-custom": "/components/QS-inputs-split/elements/QS-picker-custom/index",
+    "q-s-picker-custom2": "/components/QS-inputs-split/elements/QS-picker-custom2/index",
+    "q-s-pics": "/components/QS-inputs-split/elements/QS-pics/index",
+    "q-s-infinite-pics": "/components/QS-inputs-split/elements/QS-infinitePics/index",
+    "q-switch": "/components/QS-inputs-split/elements/QS-switch/index"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "chat聊天室",
+  "softinputNavBar": "none",
+  "bounce": "none",
+  "usingComponents": {
+    "emotion": "/components/emotion/index"
+  }
+}

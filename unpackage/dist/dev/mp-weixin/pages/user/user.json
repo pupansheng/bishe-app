@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的",
+  "usingComponents": {
+    "uni-list": "/node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list",
+    "uni-list-item": "/node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item",
+    "cmd-avatar": "/components/cmd-avatar/cmd-avatar",
+    "cmd-cell-item": "/components/cmd-cell-item/cmd-cell-item",
+    "cmd-icon": "/components/cmd-icon/cmd-icon"
+  }
+}

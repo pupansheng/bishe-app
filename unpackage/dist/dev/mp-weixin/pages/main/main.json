@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "wuc-tab": "/components/wuc-tab/wuc-tab",
+    "q-s-input": "/components/QS-inputs-split/elements/QS-input/index",
+    "q-s-textarea": "/components/QS-inputs-split/elements/QS-textarea/index",
+    "uni-popup": "/node-modules/@dcloudio/uni-ui/lib/uni-popup/uni-popup",
+    "uni-list": "/node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list",
+    "uni-list-item": "/node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item",
+    "uni-drawer": "/node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer",
+    "q-s-pics": "/components/QS-inputs-split/elements/QS-pics/index",
+    "uni-icons": "/node-modules/@dcloudio/uni-ui/lib/uni-icons/uni-icons"
+  }
+}

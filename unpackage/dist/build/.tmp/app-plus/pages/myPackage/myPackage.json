@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "我的寄件包裹",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-pagination": "/components/uni-pagination/uni-pagination",
+    "uni-badge": "/node-modules/@dcloudio/uni-ui/lib/uni-badge/uni-badge",
+    "uni-drawer": "/node-modules/@dcloudio/uni-ui/lib/uni-drawer/uni-drawer",
+    "cmd-cel-item": "/components/cmd-cell-item/cmd-cell-item",
+    "cmd-avatar": "/components/cmd-avatar/cmd-avatar",
+    "h-form-alert": "/components/h-form-alert/h-form-alert",
+    "uni-popup": "/node-modules/@dcloudio/uni-ui/lib/uni-popup/uni-popup"
+  }
+}

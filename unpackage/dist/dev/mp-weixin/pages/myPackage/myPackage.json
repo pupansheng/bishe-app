@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的寄件包裹",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-pagination": "/components/uni-pagination/uni-pagination",
+    "uni-badge": "/node-modules/@dcloudio/uni-ui/lib/uni-badge/uni-badge"
+  }
+}

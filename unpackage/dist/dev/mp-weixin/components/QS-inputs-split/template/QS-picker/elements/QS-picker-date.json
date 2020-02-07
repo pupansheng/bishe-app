@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "q-s-picker-template": "/components/QS-inputs-split/template/QS-picker/elements/QS-pickerTemplate"
+  },
+  "component": true
+}
